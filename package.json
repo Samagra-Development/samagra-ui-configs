@@ -1,6 +1,6 @@
 {
   "name": "@samagra/ui-configs",
-  "version": "0.1.11",
+  "version": "0.1.0",
   "description": "Samagra Web configs",
   "scripts": {
     "release": "standard-version"
@@ -17,7 +17,7 @@
 	"maintainers": [
 		"Abhishek Kumar <abhishekpal@samagragovernance.in>"
 	],
-	"license": "AGPL-3.0-only",
+	"license": "ISC",
   "devDependencies": {
     "standard-version": "^9.3.2"
   },
