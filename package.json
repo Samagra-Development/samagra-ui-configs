@@ -1,5 +1,5 @@
 {
-  "name": "@samagra/ui-configs",
+  "name": "samagra-ui-configs",
   "version": "0.1.0",
   "description": "Samagra Web configs",
   "scripts": {
@@ -13,6 +13,7 @@
     "uiConfig",
     "samagra"
   ],
+  "git repository":"https://github.com/Samagra-Development/samagra-ui-configs",
 	"author": "Abhishek Kumar <https://github.com/geeky-abhishek>",
 	"maintainers": [
 		"Abhishek Kumar <abhishekpal@samagragovernance.in>"
