@@ -1,0 +1,41 @@
+{
+  "name": "samagra-ui-configs",
+  "version": "0.1.0",
+  "description": "Samagra Web configs",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "files": [
+    "rules/"
+  ],
+  "keywords": [
+    "samagraUI",
+    "uiConfig",
+    "samagra"
+  ],
+  "git repository":"https://github.com/Samagra-Development/samagra-ui-configs",
+	"author": "Abhishek Kumar <https://github.com/geeky-abhishek>",
+	"maintainers": [
+		"Abhishek Kumar <abhishekpal@samagragovernance.in>"
+	],
+	"license": "ISC",
+  "devDependencies": {
+    "standard-version": "^9.3.2"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.4.0",
+    "@typescript-eslint/parser": "^5.4.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jest": "^25.2.4",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.27.1",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "prettier": "^2.4.1",
+    "prettier-eslint": "^13.0.0",
+    "typescript": "^4.5.2"
+  }
+}
